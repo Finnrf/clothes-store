@@ -1,0 +1,65 @@
+*{padding:0;
+  margin:0;}
+#header {
+  background-color: #B45F04;
+  text-align: center;
+  padding: 10px;
+  font-size:2em;
+  line-height: 90%;
+  background-image:url("../img/clothesstore(3).png");
+  height:25%;
+}
+.topnav {
+  overflow:hidden;
+  background-color: #333;
+  font-size:1.7em;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 30px;
+  text-decoration: none;
+}
+.topnav a:hover {
+  overflow:hidden;
+  background-color: #ddd;
+  color: black;
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 30px;
+  text-decoration: none;
+}
+.column.middle {
+  float:right;
+  width: 85%;
+
+
+}
+table{
+  margin: 20px;
+  padding: 20px;
+}
+td{
+  padding: 20px;
+}
+img{
+  width:250px;
+}
+td,h2{
+  padding-left:5px;
+  padding-right:20px;
+}
+#sidebar{
+  float:left;
+  width:12%;
+  background-color:#ffffff;
+  padding:25px 10px;
+
+  }
+#sidebar p{
+  margin:15%;
+  font-size: x-large;
+  }
