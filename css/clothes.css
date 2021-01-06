@@ -5,9 +5,7 @@
   text-align: center;
   padding: 10px;
   font-size:2em;
-  line-height: 90%;
-  background-image:url("../img/clothesstore(3).png");
-  height:25%;
+  height:10%;
 }
 .topnav {
   overflow:hidden;
@@ -62,4 +60,4 @@ td,h2{
 #sidebar p{
   margin:15%;
   font-size: x-large;
-  }
+}
